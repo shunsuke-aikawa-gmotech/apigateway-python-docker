@@ -1,0 +1,180 @@
+[root - INFO - 2017-05-30 10:48:04,483] Event: {'context': {'stage': 'local', 'http-method': 'GET', 'resource-path': '', 'source-ip': 'localhost'}, 'body-json': {}, 'params': {'path': {}, 'querystring': {}, 'header': {'Accept': '*/*', 'User-Agent': 'Local', 'Host': 'localhost'}}, 'base64-body': '', 'stage-variables': {}}
+[root - INFO - 2017-05-30 10:48:04,483] START RequestId: ff80849e-675a-48f1-a59c-c2b29c8568bb
+[root - INFO - 2017-05-30 10:48:04,483] END RequestId: ff80849e-675a-48f1-a59c-c2b29c8568bb
+[root - INFO - 2017-05-30 10:48:04,483] RESULT:
+{'params': {}}
+[root - INFO - 2017-05-30 10:48:04,483] REPORT RequestId: ff80849e-675a-48f1-a59c-c2b29c8568bb	Duration: 0.18 ms
+[root - INFO - 2017-05-30 10:48:48,706] Event: {'context': {'stage': 'local', 'http-method': 'GET', 'resource-path': '', 'source-ip': 'localhost'}, 'body-json': {}, 'params': {'path': {}, 'querystring': {}, 'header': {'Accept': '*/*', 'User-Agent': 'Local', 'Host': 'localhost'}}, 'base64-body': '', 'stage-variables': {}}
+[root - INFO - 2017-05-30 10:48:48,706] START RequestId: b9b44f5d-816e-4eed-90f2-b6984ab84ede
+[root - INFO - 2017-05-30 10:48:48,707] END RequestId: b9b44f5d-816e-4eed-90f2-b6984ab84ede
+[root - INFO - 2017-05-30 10:48:48,707] RESULT:
+{'params': {}}
+[root - INFO - 2017-05-30 10:48:48,707] REPORT RequestId: b9b44f5d-816e-4eed-90f2-b6984ab84ede	Duration: 0.20 ms
+[root - INFO - 2017-05-30 10:48:59,118] Event: {'context': {'stage': 'local', 'http-method': 'GET', 'resource-path': '', 'source-ip': 'localhost'}, 'body-json': {}, 'params': {'path': {}, 'querystring': {'iii': '232'}, 'header': {'Accept': '*/*', 'User-Agent': 'Local', 'Host': 'localhost'}}, 'base64-body': '', 'stage-variables': {}}
+[root - INFO - 2017-05-30 10:48:59,118] START RequestId: 888c20a4-c659-4794-b32b-e052d30730ed
+[root - INFO - 2017-05-30 10:48:59,119] END RequestId: 888c20a4-c659-4794-b32b-e052d30730ed
+[root - INFO - 2017-05-30 10:48:59,119] RESULT:
+{'params': {'iii': '232'}}
+[root - INFO - 2017-05-30 10:48:59,119] REPORT RequestId: 888c20a4-c659-4794-b32b-e052d30730ed	Duration: 0.19 ms
+[root - INFO - 2017-05-30 10:52:18,242] Event: {'context': {'stage': 'local', 'http-method': 'GET', 'resource-path': '', 'source-ip': 'localhost'}, 'body-json': {}, 'params': {'path': {}, 'querystring': {'iii': '232'}, 'header': {'Accept': '*/*', 'User-Agent': 'Local', 'Host': 'localhost'}}, 'base64-body': '', 'stage-variables': {}}
+[root - INFO - 2017-05-30 10:52:18,242] START RequestId: e6e9469f-ab3b-460f-b4c6-bd4ec8fcd484
+[root - INFO - 2017-05-30 10:52:18,242] END RequestId: e6e9469f-ab3b-460f-b4c6-bd4ec8fcd484
+[root - INFO - 2017-05-30 10:52:18,242] RESULT:
+{'params': {'iii': '232'}}
+[root - INFO - 2017-05-30 10:52:18,243] REPORT RequestId: e6e9469f-ab3b-460f-b4c6-bd4ec8fcd484	Duration: 0.20 ms
+[root - INFO - 2017-05-30 10:52:24,392] Event: {'context': {'stage': 'local', 'http-method': 'GET', 'resource-path': '', 'source-ip': 'localhost'}, 'body-json': {}, 'params': {'path': {}, 'querystring': {'iii': '232'}, 'header': {'Accept': '*/*', 'User-Agent': 'Local', 'Host': 'localhost'}}, 'base64-body': '', 'stage-variables': {}}
+[root - INFO - 2017-05-30 10:52:24,392] START RequestId: bb4e029c-02c4-4da4-a848-08edbe693009
+[root - INFO - 2017-05-30 10:52:24,392] END RequestId: bb4e029c-02c4-4da4-a848-08edbe693009
+[root - INFO - 2017-05-30 10:52:24,393] RESULT:
+{'params': {'iii': '232'}}
+[root - INFO - 2017-05-30 10:52:24,393] REPORT RequestId: bb4e029c-02c4-4da4-a848-08edbe693009	Duration: 0.20 ms
+[root - INFO - 2017-05-30 10:54:27,434] Event: {'context': {'stage': 'local', 'http-method': 'GET', 'resource-path': '', 'source-ip': 'localhost'}, 'body-json': {}, 'params': {'path': '/efwfew/iuhiu/', 'querystring': {'iii': '232'}, 'header': {'Accept': '*/*', 'User-Agent': 'Local', 'Host': 'localhost'}}, 'base64-body': '', 'stage-variables': {}}
+[root - INFO - 2017-05-30 10:54:27,434] START RequestId: afa87a30-ee11-445e-8f34-d0c2a40dc398
+[root - INFO - 2017-05-30 10:54:27,434] END RequestId: afa87a30-ee11-445e-8f34-d0c2a40dc398
+[root - INFO - 2017-05-30 10:54:27,434] RESULT:
+{'params': {'iii': '232'}}
+[root - INFO - 2017-05-30 10:54:27,435] REPORT RequestId: afa87a30-ee11-445e-8f34-d0c2a40dc398	Duration: 0.19 ms
+[root - INFO - 2017-05-30 10:56:29,445] Event: {'context': {'stage': 'local', 'http-method': 'GET', 'resource-path': '', 'source-ip': 'localhost'}, 'body-json': {}, 'params': {'path': '/efwfew/iuhiu', 'querystring': {'iii': '232'}, 'header': {'Accept': '*/*', 'User-Agent': 'Local', 'Host': 'localhost'}}, 'base64-body': '', 'stage-variables': {}}
+[root - INFO - 2017-05-30 10:56:29,445] START RequestId: 41ca19e2-b5e8-453b-abfa-68b13fee00c0
+[root - INFO - 2017-05-30 10:56:29,445] END RequestId: 41ca19e2-b5e8-453b-abfa-68b13fee00c0
+[root - INFO - 2017-05-30 10:56:29,445] RESULT:
+{'params': {'iii': '232'}}
+[root - INFO - 2017-05-30 10:56:29,445] REPORT RequestId: 41ca19e2-b5e8-453b-abfa-68b13fee00c0	Duration: 0.20 ms
+[root - INFO - 2017-05-30 10:58:04,303] Event: {'context': {'stage': 'local', 'http-method': 'GET', 'resource-path': '', 'source-ip': 'localhost'}, 'body-json': {}, 'params': {'path': '/efwfew/iuhiu', 'querystring': {'iii': '232'}, 'header': {'Accept': '*/*', 'User-Agent': 'Local', 'Host': 'localhost'}}, 'base64-body': '', 'stage-variables': {}}
+[root - INFO - 2017-05-30 10:58:04,303] START RequestId: cb0173df-b0d9-4c94-b072-7f3ce46d5cf3
+[root - INFO - 2017-05-30 10:58:04,304] END RequestId: cb0173df-b0d9-4c94-b072-7f3ce46d5cf3
+[root - INFO - 2017-05-30 10:58:04,304] RESULT:
+{'method': 'GET', 'url': '/efwfew/iuhiu', 'params': {'iii': '232'}}
+[root - INFO - 2017-05-30 10:58:04,304] REPORT RequestId: cb0173df-b0d9-4c94-b072-7f3ce46d5cf3	Duration: 0.18 ms
+[root - INFO - 2017-05-30 10:58:13,450] Event: {'context': {'stage': 'local', 'http-method': 'GET', 'resource-path': '', 'source-ip': 'localhost'}, 'body-json': {}, 'params': {'path': '/', 'querystring': {}, 'header': {'Accept': '*/*', 'User-Agent': 'Local', 'Host': 'localhost'}}, 'base64-body': '', 'stage-variables': {}}
+[root - INFO - 2017-05-30 10:58:13,450] START RequestId: db0c4d4d-aceb-43d7-88d6-186f6e48cdc4
+[root - INFO - 2017-05-30 10:58:13,450] END RequestId: db0c4d4d-aceb-43d7-88d6-186f6e48cdc4
+[root - INFO - 2017-05-30 10:58:13,450] RESULT:
+{'method': 'GET', 'url': '/', 'params': {}}
+[root - INFO - 2017-05-30 10:58:13,451] REPORT RequestId: db0c4d4d-aceb-43d7-88d6-186f6e48cdc4	Duration: 0.19 ms
+[root - INFO - 2017-05-30 10:58:18,628] Event: {'context': {'stage': 'local', 'http-method': 'GET', 'resource-path': '', 'source-ip': 'localhost'}, 'body-json': {}, 'params': {'path': '/huiuyi', 'querystring': {}, 'header': {'Accept': '*/*', 'User-Agent': 'Local', 'Host': 'localhost'}}, 'base64-body': '', 'stage-variables': {}}
+[root - INFO - 2017-05-30 10:58:18,629] START RequestId: 881f4a93-dba1-40c6-91b6-8ac43c2fde67
+[root - INFO - 2017-05-30 10:58:18,629] END RequestId: 881f4a93-dba1-40c6-91b6-8ac43c2fde67
+[root - INFO - 2017-05-30 10:58:18,629] RESULT:
+{'method': 'GET', 'url': '/huiuyi', 'params': {}}
+[root - INFO - 2017-05-30 10:58:18,629] REPORT RequestId: 881f4a93-dba1-40c6-91b6-8ac43c2fde67	Duration: 0.19 ms
+[root - INFO - 2017-05-30 10:58:25,553] Event: {'context': {'stage': 'local', 'http-method': 'GET', 'resource-path': '', 'source-ip': 'localhost'}, 'body-json': {}, 'params': {'path': '/huiuyi', 'querystring': {'sss': '5434'}, 'header': {'Accept': '*/*', 'User-Agent': 'Local', 'Host': 'localhost'}}, 'base64-body': '', 'stage-variables': {}}
+[root - INFO - 2017-05-30 10:58:25,554] START RequestId: 687d829e-07e0-4eec-a57f-92a7a81c8682
+[root - INFO - 2017-05-30 10:58:25,554] END RequestId: 687d829e-07e0-4eec-a57f-92a7a81c8682
+[root - INFO - 2017-05-30 10:58:25,554] RESULT:
+{'method': 'GET', 'url': '/huiuyi', 'params': {'sss': '5434'}}
+[root - INFO - 2017-05-30 10:58:25,554] REPORT RequestId: 687d829e-07e0-4eec-a57f-92a7a81c8682	Duration: 0.18 ms
+[root - INFO - 2017-05-30 10:59:04,737] Event: {'context': {'stage': 'local', 'http-method': 'GET', 'resource-path': '', 'source-ip': 'localhost'}, 'body-json': {}, 'params': {'path': '/huiuyi', 'querystring': {'sss': '5434'}, 'header': {'Accept': '*/*', 'User-Agent': 'Local', 'Host': 'localhost'}}, 'base64-body': '', 'stage-variables': {}}
+[root - INFO - 2017-05-30 10:59:04,737] START RequestId: aacfa637-2c58-4f83-8d6b-4b81072ed79c
+[root - INFO - 2017-05-30 10:59:04,737] END RequestId: aacfa637-2c58-4f83-8d6b-4b81072ed79c
+[root - INFO - 2017-05-30 10:59:04,737] RESULT:
+{'method': 'GET', 'url': '/huiuyi', 'querystring': {'sss': '5434'}}
+[root - INFO - 2017-05-30 10:59:04,738] REPORT RequestId: aacfa637-2c58-4f83-8d6b-4b81072ed79c	Duration: 0.19 ms
+[root - INFO - 2017-05-30 11:00:21,938] Event: {'context': {'stage': 'local', 'http-method': 'GET', 'resource-path': '', 'source-ip': 'localhost'}, 'body-json': {}, 'params': {'path': '/huiuyi', 'querystring': {'sss': '5434'}, 'header': {'Accept': '*/*', 'User-Agent': 'Local', 'Host': 'localhost'}}, 'base64-body': '', 'stage-variables': {}}
+[root - INFO - 2017-05-30 11:00:21,938] START RequestId: f4b25d04-5703-4d13-95ef-5fb101b5bd35
+[root - INFO - 2017-05-30 11:00:21,938] END RequestId: f4b25d04-5703-4d13-95ef-5fb101b5bd35
+[root - INFO - 2017-05-30 11:00:21,939] RESULT:
+{'method': 'GET', 'url': '/huiuyi', 'querystring': {'sss': '5434'}, 'body-json': {}}
+[root - INFO - 2017-05-30 11:00:21,939] REPORT RequestId: f4b25d04-5703-4d13-95ef-5fb101b5bd35	Duration: 0.22 ms
+[root - INFO - 2017-05-30 11:01:05,926] Event: {'context': {'stage': 'local', 'http-method': 'GET', 'resource-path': '', 'source-ip': 'localhost'}, 'body-json': {}, 'params': {'path': '/huiuyi', 'querystring': {'sss': '5434'}, 'header': {'Accept': '*/*', 'User-Agent': 'Local', 'Host': 'localhost'}}, 'base64-body': '', 'stage-variables': {}}
+[root - INFO - 2017-05-30 11:01:05,926] START RequestId: 2ab29a8d-57fa-42d0-a4dd-828b180b1e08
+[root - INFO - 2017-05-30 11:01:05,926] END RequestId: 2ab29a8d-57fa-42d0-a4dd-828b180b1e08
+[root - INFO - 2017-05-30 11:01:05,927] RESULT:
+{'method': 'GET', 'url': '/huiuyi', 'query-string': {'sss': '5434'}, 'json-body': {}}
+[root - INFO - 2017-05-30 11:01:05,927] REPORT RequestId: 2ab29a8d-57fa-42d0-a4dd-828b180b1e08	Duration: 0.18 ms
+[root - INFO - 2017-05-31 10:04:44,726] Event: {'context': {'stage': 'local', 'http-method': 'GET', 'resource-path': '', 'source-ip': 'localhost'}, 'body-json': {}, 'params': {'path': '/eeere', 'querystring': {'hoge': '33'}, 'header': {'Accept': '*/*', 'User-Agent': 'Local', 'Host': 'localhost'}}, 'base64-body': '', 'stage-variables': {}}
+[root - INFO - 2017-05-31 10:04:44,726] START RequestId: 9dfbae3c-3c62-46c2-8686-78f919371b2b
+Process Process-1:
+Traceback (most recent call last):
+  File "/root/.pyenv/versions/3.6.1/envs/lambda/lib/python3.6/site-packages/lambda_local/main.py", line 88, in execute
+    result = func(event, context.activate())
+  File "/home/lambda/dev/lambda.py", line 7, in handler
+    res['method'] = vent['context']['http-method']
+NameError: name 'vent' is not defined
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/root/.pyenv/versions/3.6.1/lib/python3.6/multiprocessing/process.py", line 249, in _bootstrap
+    self.run()
+  File "/root/.pyenv/versions/3.6.1/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "/root/.pyenv/versions/3.6.1/envs/lambda/lib/python3.6/site-packages/lambda_local/main.py", line 49, in run
+    result, err_type = execute(func, e, c)
+  File "/root/.pyenv/versions/3.6.1/envs/lambda/lib/python3.6/site-packages/lambda_local/main.py", line 98, in execute
+    }, indent=4, separators=(',', ': '))
+  File "/root/.pyenv/versions/3.6.1/lib/python3.6/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/root/.pyenv/versions/3.6.1/lib/python3.6/json/encoder.py", line 201, in encode
+    chunks = list(chunks)
+  File "/root/.pyenv/versions/3.6.1/lib/python3.6/json/encoder.py", line 430, in _iterencode
+    yield from _iterencode_dict(o, _current_indent_level)
+  File "/root/.pyenv/versions/3.6.1/lib/python3.6/json/encoder.py", line 404, in _iterencode_dict
+    yield from chunks
+  File "/root/.pyenv/versions/3.6.1/lib/python3.6/json/encoder.py", line 325, in _iterencode_list
+    yield from chunks
+  File "/root/.pyenv/versions/3.6.1/lib/python3.6/json/encoder.py", line 437, in _iterencode
+    o = _default(o)
+  File "/root/.pyenv/versions/3.6.1/lib/python3.6/json/encoder.py", line 180, in default
+    o.__class__.__name__)
+TypeError: Object of type 'FrameSummary' is not JSON serializable
+[root - INFO - 2017-05-31 10:09:32,281] Event: {'context': {'stage': 'local', 'http-method': 'GET', 'resource-path': '', 'source-ip': 'localhost'}, 'body-json': {}, 'params': {'path': '/eeere', 'querystring': {'hoge': '33'}, 'header': {'Accept': '*/*', 'User-Agent': 'Local', 'Host': 'localhost'}}, 'base64-body': '', 'stage-variables': {}}
+[root - INFO - 2017-05-31 10:09:32,281] START RequestId: 4abb5aff-a3d4-437f-81a6-477b6c2ed745
+[root - INFO - 2017-05-31 10:09:32,281] END RequestId: 4abb5aff-a3d4-437f-81a6-477b6c2ed745
+[root - INFO - 2017-05-31 10:09:32,281] RESULT:
+{'method': 'GET', 'url': '/eeere', 'query-string': {'hoge': '33'}, 'json-body': {}}
+[root - INFO - 2017-05-31 10:09:32,282] REPORT RequestId: 4abb5aff-a3d4-437f-81a6-477b6c2ed745	Duration: 0.17 ms
+[root - INFO - 2017-05-31 10:13:42,421] Event: {'context': {'stage': 'local', 'http-method': 'GET', 'resource-path': '', 'source-ip': 'localhost'}, 'body-json': {}, 'params': {'path': '/aaa', 'querystring': {'a': '1'}, 'header': {'Accept': '*/*', 'User-Agent': 'Local', 'Host': 'localhost'}}, 'base64-body': '', 'stage-variables': {}}
+[root - INFO - 2017-05-31 10:13:42,421] START RequestId: 206648de-8710-45aa-90ed-b3de72b8412d
+[root - INFO - 2017-05-31 10:13:42,422] END RequestId: 206648de-8710-45aa-90ed-b3de72b8412d
+[root - INFO - 2017-05-31 10:13:42,422] RESULT:
+{'method': 'GET', 'url': '/aaa', 'query-string': {'a': '1'}, 'json-body': {}}
+[root - INFO - 2017-05-31 10:13:42,423] REPORT RequestId: 206648de-8710-45aa-90ed-b3de72b8412d	Duration: 0.27 ms
+[root - INFO - 2017-05-31 10:16:59,746] Event: {'context': {'stage': 'local', 'http-method': 'POST', 'resource-path': '', 'source-ip': 'localhost'}, 'body-json': {'user': {'first_name': 'firstname', 'last_name': 'lastname', 'email': 'email@email.com', 'password': 'app123', 'password_confirmation': 'app123'}}, 'params': {'path': '/aaa', 'querystring': {}, 'header': {'Accept': '*/*', 'User-Agent': 'Local', 'Host': 'localhost'}}, 'base64-body': '', 'stage-variables': {}}
+[root - INFO - 2017-05-31 10:16:59,746] START RequestId: 1c377539-42cd-4e59-9d58-fc77ac609f8c
+[root - INFO - 2017-05-31 10:16:59,746] END RequestId: 1c377539-42cd-4e59-9d58-fc77ac609f8c
+[root - INFO - 2017-05-31 10:16:59,746] RESULT:
+{'method': 'POST', 'url': '/aaa', 'query-string': {}, 'json-body': {'user': {'first_name': 'firstname', 'last_name': 'lastname', 'email': 'email@email.com', 'password': 'app123', 'password_confirmation': 'app123'}}}
+[root - INFO - 2017-05-31 10:16:59,746] REPORT RequestId: 1c377539-42cd-4e59-9d58-fc77ac609f8c	Duration: 0.19 ms
+[root - INFO - 2017-05-31 10:17:34,684] Event: {'context': {'stage': 'local', 'http-method': 'POST', 'resource-path': '', 'source-ip': 'localhost'}, 'body-json': {'user': {'first_name': 'firstname', 'last_name': 'lastname', 'email': 'email@email.com', 'password': 'app123', 'password_confirmation': 'app123'}}, 'params': {'path': '/aaa', 'querystring': {}, 'header': {'Accept': '*/*', 'User-Agent': 'Local', 'Host': 'localhost'}}, 'base64-body': '', 'stage-variables': {}}
+[root - INFO - 2017-05-31 10:17:34,684] START RequestId: de8aedf5-63ea-414c-9c56-616f956b7cbb
+[root - INFO - 2017-05-31 10:17:34,685] END RequestId: de8aedf5-63ea-414c-9c56-616f956b7cbb
+[root - INFO - 2017-05-31 10:17:34,685] RESULT:
+{'method': 'POST', 'url': '/aaa', 'query-string': {}, 'json-body': {'user': {'first_name': 'firstname', 'last_name': 'lastname', 'email': 'email@email.com', 'password': 'app123', 'password_confirmation': 'app123'}}}
+[root - INFO - 2017-05-31 10:17:34,685] REPORT RequestId: de8aedf5-63ea-414c-9c56-616f956b7cbb	Duration: 0.24 ms
+[root - INFO - 2017-05-31 10:17:38,657] Event: {'context': {'stage': 'local', 'http-method': 'POST', 'resource-path': '', 'source-ip': 'localhost'}, 'body-json': {'user': {'first_name': 'firstname', 'last_name': 'lastname', 'email': 'email@email.com', 'password': 'app123', 'password_confirmation': 'app123'}}, 'params': {'path': '/aaa', 'querystring': {}, 'header': {'Accept': '*/*', 'User-Agent': 'Local', 'Host': 'localhost'}}, 'base64-body': '', 'stage-variables': {}}
+[root - INFO - 2017-05-31 10:17:38,658] START RequestId: 7928d22e-cd91-41fe-a76a-85ae069fbdc7
+[root - INFO - 2017-05-31 10:17:38,658] END RequestId: 7928d22e-cd91-41fe-a76a-85ae069fbdc7
+[root - INFO - 2017-05-31 10:17:38,658] RESULT:
+{'method': 'POST', 'url': '/aaa', 'query-string': {}, 'json-body': {'user': {'first_name': 'firstname', 'last_name': 'lastname', 'email': 'email@email.com', 'password': 'app123', 'password_confirmation': 'app123'}}}
+[root - INFO - 2017-05-31 10:17:38,658] REPORT RequestId: 7928d22e-cd91-41fe-a76a-85ae069fbdc7	Duration: 0.18 ms
+[root - INFO - 2017-05-31 10:18:25,978] Event: {'context': {'stage': 'local', 'http-method': 'POST', 'resource-path': '', 'source-ip': 'localhost'}, 'body-json': {'a': 1, 'b': 2}, 'params': {'path': '/aaa', 'querystring': {}, 'header': {'Accept': '*/*', 'User-Agent': 'Local', 'Host': 'localhost'}}, 'base64-body': '', 'stage-variables': {}}
+[root - INFO - 2017-05-31 10:18:25,978] START RequestId: 6ba05d25-25cb-45ed-a502-cc80a0ddf8b2
+[root - INFO - 2017-05-31 10:18:25,978] END RequestId: 6ba05d25-25cb-45ed-a502-cc80a0ddf8b2
+[root - INFO - 2017-05-31 10:18:25,978] RESULT:
+{'method': 'POST', 'url': '/aaa', 'query-string': {}, 'json-body': {'a': 1, 'b': 2}}
+[root - INFO - 2017-05-31 10:18:25,978] REPORT RequestId: 6ba05d25-25cb-45ed-a502-cc80a0ddf8b2	Duration: 0.20 ms
+[root - INFO - 2017-05-31 10:18:45,742] Event: {'context': {'stage': 'local', 'http-method': 'POST', 'resource-path': '', 'source-ip': 'localhost'}, 'body-json': {'a': 1, 'b': 2}, 'params': {'path': '/aaa', 'querystring': {}, 'header': {'Accept': '*/*', 'User-Agent': 'Local', 'Host': 'localhost'}}, 'base64-body': '', 'stage-variables': {}}
+[root - INFO - 2017-05-31 10:18:45,742] START RequestId: 875de846-5082-4aa9-b9c7-5d872fdbf642
+[root - INFO - 2017-05-31 10:18:45,742] END RequestId: 875de846-5082-4aa9-b9c7-5d872fdbf642
+[root - INFO - 2017-05-31 10:18:45,742] RESULT:
+{'method': 'POST', 'url': '/aaa', 'query-string': {}, 'json-body': {'a': 1, 'b': 2}}
+[root - INFO - 2017-05-31 10:18:45,742] REPORT RequestId: 875de846-5082-4aa9-b9c7-5d872fdbf642	Duration: 0.19 ms
+[root - INFO - 2017-05-31 10:18:50,494] Event: {'context': {'stage': 'local', 'http-method': 'POST', 'resource-path': '', 'source-ip': 'localhost'}, 'body-json': {'a': 1, 'b': 2}, 'params': {'path': '/aaa', 'querystring': {}, 'header': {'Accept': '*/*', 'User-Agent': 'Local', 'Host': 'localhost'}}, 'base64-body': '', 'stage-variables': {}}
+[root - INFO - 2017-05-31 10:18:50,494] START RequestId: 26866f1e-a71d-4771-9208-8f2999697bcb
+[root - INFO - 2017-05-31 10:18:50,494] END RequestId: 26866f1e-a71d-4771-9208-8f2999697bcb
+[root - INFO - 2017-05-31 10:18:50,494] RESULT:
+{'method': 'POST', 'url': '/aaa', 'query-string': {}, 'json-body': {'a': 1, 'b': 2}}
+[root - INFO - 2017-05-31 10:18:50,494] REPORT RequestId: 26866f1e-a71d-4771-9208-8f2999697bcb	Duration: 0.19 ms
+[root - INFO - 2017-05-31 10:19:30,584] Event: {'context': {'stage': 'local', 'http-method': 'POST', 'resource-path': '', 'source-ip': 'localhost'}, 'body-json': {'a': '1', 'b': '2'}, 'params': {'path': '/aaa', 'querystring': {}, 'header': {'Accept': '*/*', 'User-Agent': 'Local', 'Host': 'localhost'}}, 'base64-body': '', 'stage-variables': {}}
+[root - INFO - 2017-05-31 10:19:30,584] START RequestId: 68630ab9-2b60-4195-9dbc-80b3b54307e9
+[root - INFO - 2017-05-31 10:19:30,584] END RequestId: 68630ab9-2b60-4195-9dbc-80b3b54307e9
+[root - INFO - 2017-05-31 10:19:30,584] RESULT:
+{'method': 'POST', 'url': '/aaa', 'query-string': {}, 'json-body': {'a': '1', 'b': '2'}}
+[root - INFO - 2017-05-31 10:19:30,584] REPORT RequestId: 68630ab9-2b60-4195-9dbc-80b3b54307e9	Duration: 0.19 ms
+[root - INFO - 2017-05-31 10:28:09,811] Event: {'context': {'stage': 'local', 'http-method': 'GET', 'resource-path': '', 'source-ip': 'localhost'}, 'body-json': {}, 'params': {'path': '/aaa', 'querystring': {'a': '1'}, 'header': {'Accept': '*/*', 'User-Agent': 'Local', 'Host': 'localhost'}}, 'base64-body': '', 'stage-variables': {}}
+[root - INFO - 2017-05-31 10:28:09,811] START RequestId: aaf53b1e-f6e0-4082-abcb-f39174b5e08b
+[root - INFO - 2017-05-31 10:28:09,812] END RequestId: aaf53b1e-f6e0-4082-abcb-f39174b5e08b
+[root - INFO - 2017-05-31 10:28:09,812] RESULT:
+{'method': 'GET', 'url': '/aaa', 'query-string': {'a': '1'}, 'json-body': {}}
+[root - INFO - 2017-05-31 10:28:09,812] REPORT RequestId: aaf53b1e-f6e0-4082-abcb-f39174b5e08b	Duration: 0.19 ms

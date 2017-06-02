@@ -1,0 +1,1 @@
+{"context": {"stage": "local", "http-method": "GET", "resource-path": "", "source-ip": "localhost"}, "body-json": {}, "params": {"path": "/aaa", "querystring": {"a": "1"}, "header": {"Accept": "*/*", "User-Agent": "Local", "Host": "localhost"}}, "base64-body": "", "stage-variables": {}}
